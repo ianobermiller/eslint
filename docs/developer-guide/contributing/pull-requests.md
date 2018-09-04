@@ -134,7 +134,7 @@ Now you're ready to send the pull request. Go to your ESLint fork and then follo
 
 ## Following Up
 
-Once your pull request is sent, it's time for the team to review it. As such, please make sure to:
+Once your pull request is sent, it's time for the team to review it. For more on that process, read [Reviewing Pull Requests](../../maintainer-guide/pullrequests.md). To help move your PR along please make sure to:
 
 1. Monitor the status of the Travis CI build for your pull request. If it fails, please investigate why. We cannot merge pull requests that fail Travis for any reason.
 1. Respond to comments left on the pull request from team members. Remember, we want to help you land your code, so please be receptive to our feedback.
